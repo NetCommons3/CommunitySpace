@@ -8,4 +8,4 @@ CommunitySpace for NetComomns3
 
 | dependencies  | status |
 | ------------- | ------ |
-| composer.json | [![Dependency Status](https://www.versioneye.com/user/projects/55cbbe9fc7d567000c000299/badge.png)](https://www.versioneye.com/user/projects/55cbbe9fc7d567000c000299) |
+| composer.json | [![Dependency Status](https://www.versioneye.com/user/projects/576dda7ee307540009c8c715/badge.png)](https://www.versioneye.com/user/projects/576dda7ee307540009c8c715) |
