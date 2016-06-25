@@ -1,0 +1,27 @@
+{
+    "name": "netcommons/community-space",
+    "description": "CommunitySpace for NetCommons Plugin",
+    "homepage": "http://www.netcommons.org/",
+    "extra": {
+        "installer-paths": {
+            "app/Plugin/{$name}": ["type:cakephp-plugin"]
+        }
+    },
+    "require": {
+        "netcommons/net-commons":       "dev-master",
+        "netcommons/rooms":             "dev-master"
+    },
+    "license": "NetCommons License",
+    "authors": [
+        {
+            "name": "NetCommons Community",
+            "homepage": "https://github.com/NetCommons3/CommunitySpace/graphs/contributors"
+        }
+    ],
+    "type":        "cakephp-plugin",
+    "keywords":    ["cakephp", "community_space"],
+    "config": {
+        "vendor-dir": "vendors"
+    }
+}
+
